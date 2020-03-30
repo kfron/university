@@ -1,0 +1,5 @@
+Aby umożliwić rozgrywke należy:
+1.Uruchomić dwa terminale i przesunąć sie do foldera zawierającego wszystkie pliki.
+2.Skompilować za pomocą komendy make
+3.W jednym terminalu wpisać komendę ./reversi A
+3.5 W drugim terminalu wpisać komendę ./reversi B
