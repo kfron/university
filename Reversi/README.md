@@ -1,2 +1,1 @@
-# Reversi
-Simple two-player game written in C using GTK3+
+Two-player 2D board game Reversi written in C

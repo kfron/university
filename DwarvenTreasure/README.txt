@@ -1,3 +1,4 @@
-W pliku bin nie ma binarek, są tam tylko grafiki.
-W celu osiągnięcia zamierzonego efektu, proszę skorzystać z instrukcji z 
-Dokumentacji dla użytkownika w celu poprawnej kompilacji.
+2D pixel-styled Java game
+
+In this game you are controlling a dwarf. Try to collect all gold nuggets, utilise all hidden tools
+or find the Holy Grail!
